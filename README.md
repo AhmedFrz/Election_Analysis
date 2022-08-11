@@ -10,18 +10,19 @@
 
 ## Summary
 The analysis of the election show that:
-- There were "x" votes cast in the election 
+- There were total "369,711" votes cast in the election 
 
 - The candidates were:
-    - Candidate 1
-    - Candidate 2
-    - Candidate 3
+    - Candidate 1: Charles Casper Stockham
+    - Candidate 2: Diana DeGette
+    - Candidate 3: Raymon Anthony Doane
  
  - The candidate results were:
-    - Candidate 1 received "x%" of the vote and "y" number of votes.
-    - Candidate 2 received "x%" of the vote and "y" number of votes.
-    - Candidate 3 received "x%" of the vote and "y" number of votes.
+    - Candidate 1 received "23.04%" of the vote and "85,213" number of votes.
+    - Candidate 2 received "73.81%" of the vote and "272,892" number of votes.
+    - Candidate 3 received "3.13%" of the vote and "11,606" number of votes.
+
 - The winner of the election was:
-    - Candidate (1,2,or 3), who received "x%" of the vote and "y" number of vote
+    - Diana DeGette who received "73.8%" of the vote and "369,711" number of vote
     
     
